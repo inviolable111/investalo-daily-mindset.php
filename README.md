@@ -1,15 +1,15 @@
 # Investalo Daily Mindset 🧘‍♂️
 
-Ein elegantes UI-Element für WordPress, das Tradern hilft, den psychologischen Fokus zu behalten. Minimalistisches Design trifft auf automatisierte Mentaltraining-Impulse.
+An elegant UI element for WordPress designed to help traders maintain psychological focus. Minimalist design meets automated mental training impulses.
 
 ## ✨ Highlights
-- **Smart Rotation:** Wechselt den Spruch automatisch alle 24 Stunden (date-based indexing).
-- **High-End UI:** Sanfte `softGlow` CSS-Animation für eine moderne, beruhigende Ästhetik.
-- **Responsive:** Optimiert für Desktop und Mobile Trading-Dashboards.
-- **Plug & Play:** Einfache Einbindung über den Shortcode `[daily_mindset]`.
+- **Smart Rotation:** Automatically changes the affirmation every 24 hours (date-based indexing).
+- **High-End UI:** Features a smooth `softGlow` CSS animation for a modern, calming aesthetic.
+- **Responsive:** Optimized for both desktop and mobile trading dashboards.
+- **Plug & Play:** Easy integration using the shortcode `[daily_mindset]`.
 
-## 🎨 Design-Philosophie
-Das Farbschema in Türkis-Verläufen wurde gewählt, um in stressigen Marktphasen Ruhe und Klarheit zu vermitteln.
+## 🎨 Design Philosophy
+The turquoise gradient color scheme was specifically chosen to convey calmness and clarity during stressful market phases.
 
 ---
-*Teil der Investalo Akademie Entwickler-Suite.*
+*Part of the Investalo Academy developer suite.*
